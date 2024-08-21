@@ -1,0 +1,11 @@
+tahapan belajr fritzing
+
+# belajar secara detail tentang komponen yang akan digunakan
+    - kegunaan
+    - cara kerja
+# belajar cara merangkai komponen tersebut
+    - komunikasi pin yang digunakan : ADC, SDA SCL, Rx TX, dll
+    - catudaya yag dibutuhkan : 220 VAC, 12 VDC, 5v, 3.3v
+# buat jalurnya kemudian rapikan
+    - pakai warna jalur yang beda unutk setiap komponen
+    - catu daya menggunakan warna jalur merah & hitam
