@@ -3,7 +3,7 @@ tahapan belajr fritzing
 # belajar secara detail tentang komponen yang akan digunakan
     - kegunaan
     - cara kerja
-(ESP32, DHT22)
+belajar merangkai (ESP32, DHT22, LCD 20x4)
 # belajar cara merangkai komponen tersebut
     - komunikasi pin yang digunakan : ADC, SDA SCL, Rx TX, dll
     - catudaya yag dibutuhkan : 220 VAC, 12 VDC, 5v, 3.3v
