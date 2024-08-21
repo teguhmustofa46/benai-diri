@@ -1,0 +1,5 @@
+tahapan untuk menjadi lebih baik
+- buat akun github
+- instal git
+- pelajari sampai ahli
+- bekerja dengan github
