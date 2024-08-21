@@ -4,4 +4,5 @@ tahapan untuk menjadi lebih baik
 - pelajari sampai ahli
 - bekerja dengan github
 - upload progres pembuatan alat
-- skematik, desain pcb, coding
+- kuasai fritzing secara ahli
+- kuasai easyeda secara ahli
